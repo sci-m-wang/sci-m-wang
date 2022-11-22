@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wang Ming
 - 👀 I’m interested in Interpretable Machine Learning.
 - 🌱 I’m currently learning Counterfactual Explanation.
-- 📫 My e-mail address is wangming1785@protonmail.com
+- 📫 My e-mail address is sci.m.wang@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
