@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wang Ming
-- 👀 I’m interested in Interpretable Machine Learning.
-- 🌱 I’m currently learning Counterfactual Explanation.
+- 👀 I’m interested in AI Safety, Evaluation of LLMs, and Interpretable Machine Learning.
+- 🌱 I’m currently learning Deployment and fine-tuning of LLMs.
 - 📫 My e-mail address is sci.m.wang@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
