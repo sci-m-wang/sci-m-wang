@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang&theme=dark">
-  <img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang&theme=dark">
+  <img align="right" width="40%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang&theme=dark">
 </picture>
 
 - 👋 Hi, I’m @Wang Ming
