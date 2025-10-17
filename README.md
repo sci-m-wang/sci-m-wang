@@ -3,7 +3,7 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-m-wang&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
   <img align="right" width="40%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang&theme=dark">
 </picture>
 
