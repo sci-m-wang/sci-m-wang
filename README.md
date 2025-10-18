@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-m-wang&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
-  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-m-wang&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-m-wang&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </picture>
 
 - 👋 Hi, I’m @Wang Ming, you can also call me Mingle. I am now a 4-year PhD Candidate of AI / NLP at Northeastern University and Singapore Management University.
