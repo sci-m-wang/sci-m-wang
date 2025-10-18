@@ -7,10 +7,10 @@
   <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-m-wang&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">
 </picture>
 
-- 👋 Hi, I’m @Wang Ming
-- 👀 I’m interested in AI Safety, Evaluation of LLMs, and Interpretable Machine Learning.
-- 🌱 I’m currently learning Deployment and fine-tuning of LLMs, Agent and Multi-Agents.
-- 📫 My e-mail address is sci.m.wang@gmail.com
+- 👋 Hi, I’m @Wang Ming, you can also call me Mingle. I am now a 4-year PhD Candidate of AI / NLP at Northeastern University and Singapore Management University.
+- 👀 I’m interested in Machine Psychology, AI for Mental Health, and Psychological Alignment between AI and Human. I am also working on Model Editing, Context Engineering, AI Safety, etc.
+- 🌱 I’m currently learning Theory of Mind, Model Editing, Context Engineering, and Information System.
+- 📫 My e-mail address is [sci.m.wang@gmail.com](mailto://sci.m.wang@gmail.com).
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 
