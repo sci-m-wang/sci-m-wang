@@ -15,5 +15,5 @@
 
 
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang"> --->
-<img src="https://github-profile-trophy.vercel.app/?username=sci-m-wang&theme=onedark&column=-1">
+<img src="https://profile-summary-for-github.com/user/sci-m-wang">
 
