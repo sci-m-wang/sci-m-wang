@@ -15,5 +15,5 @@
 
 
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang"> --->
-<img src="https://profile-summary-for-github.com/user/sci-m-wang">
-
+<!-- <img src="https://profile-summary-for-github.com/user/sci-m-wang"> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=sci-m-wang&theme=dark)](https://git.io/streak-stats)
