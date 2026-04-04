@@ -12,4 +12,4 @@
 
 <!-- <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=sci-m-wang"> --->
 <!-- <img src="https://profile-summary-for-github.com/user/sci-m-wang"> -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sci-m-wang&theme=2077" width="48%"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sci-m-wang&theme=2077" width="48%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sci-m-wang&theme=2077" width="50%"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sci-m-wang&theme=2077" width="50%"/>
