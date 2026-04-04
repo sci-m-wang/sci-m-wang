@@ -8,7 +8,7 @@
 </picture> -->
 
 - 👋 Hi, I’m @Wang Ming, you can also call me Mingle. I am now a 4-year PhD Candidate of AI / NLP at Northeastern University and Singapore Management University.
-- 👀 I’m interested in Machine Psychology, AI for Mental Health, and Psychological Alignment between AI and Human. I am also working on Model Editing, Context Engineering, AI Safety, etc.
+- 👀 I’m interested in Machine Psychology, AI for Mental Health, and Psychological Alignment between AI and Human. I am also working on Model Editing, Context Engineering, etc.
 - 🌱 I’m currently learning Theory of Mind, Model Editing, Context Engineering, and Information System.
 - 📫 My e-mail address is [sci.m.wang@gmail.com](mailto://sci.m.wang@gmail.com).
 <!--- - 💞️ I’m looking to collaborate on ... --->
