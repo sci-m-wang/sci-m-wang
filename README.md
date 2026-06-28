@@ -2,7 +2,7 @@
 <img src='https://socialify.git.ci/sci-m-wang/sci-m-wang/image?description=1&descriptionEditable=A%20PhD%20Candidate%20in%20Artificial%20Intelligence.&font=Raleway&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36068775%3Fs%3D400%26u%3Dc1823d02b1e65727fe859caf04bdeff80d3ab9bb%26v%3D4&pattern=Circuit%20Board&theme=Dark' alt='sci-m-wang' width='700' height='300' />
 </p> -->
 
-[![GitHub Roast](https://githubroast.dev/api/card/sci-m-wang)](https://githubroast.dev/u/sci-m-wang)
+<a href="https://githubroast.dev/u/sci-m-wang"><img src="https://githubroast.dev/api/card/sci-m-wang" alt="GitHub Roast" width="360" /></a>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sci-m-wang&theme=2077" width="100%"/>
 
